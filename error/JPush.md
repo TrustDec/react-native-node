@@ -1,5 +1,5 @@
 ####极光推送论坛
-[入口](community.jiguang.cn)
+[入口>>>](community.jiguang.cn)
 
 >环境：0.42
 ?windows 10 64
@@ -19,11 +19,11 @@
 >配置jcore
 
 ![002.1](../images/jpush/002.1.jpg)
-![002.2](../images/jpush/003.2.jpg)
+![002.2](../images/jpush/002.2.jpg)
 
 ####0x03编译报错：java.io.IOException:Could not delete path ...
-![003.1](../images/jpush/003.1.jpg)
-![003.2](../images/jpush/003.2.jpg)
+![003.1](../images/jpush/003.1.png)
+![003.2](../images/jpush/003.2.png)
 解决方案：
 >delete app/build目录，然后重新编译
 >如果还是报错就用管理员编译，重新编译会重新生成 build文件
